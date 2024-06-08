@@ -1,0 +1,7 @@
+name=input("enter your name")
+print("your name is:"+name)
+age=int(input("enter your age"))
+# print("your age is:"+age)
+remainingAge=str((100-age)+2024)
+# remainingAge1=int(2024+remainingAge)
+print(name+"will be 100 years old in the year:"+remainingAge)
